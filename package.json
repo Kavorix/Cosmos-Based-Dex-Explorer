@@ -1,5 +1,5 @@
 {
-  "name": "dexplorer",
+  "name": "Cosmos-based-Dex-Explorer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifintahu/dexplorer.git"
+    "url": "https://github.com/Kavorix/Cosmos-Based-Dex-Explorer"
   },
   "lint-staged": {
     "*.+(ts|tsx)": "eslint --fix",
