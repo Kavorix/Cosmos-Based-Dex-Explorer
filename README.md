@@ -1,4 +1,4 @@
-# Cosmos Based Dex Explorer
+# Cosmos Based Dexplorer
 
 ## Features
 
